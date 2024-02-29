@@ -1,0 +1,46 @@
+.Cpt {
+  padding-top: 0.75rem;
+  margin-top: 3rem;
+  padding-bottom: 0.25rem;
+}
+
+.Ccontact-us {
+  margin-top: 10px;
+  color: #c19556;
+  font-size: 80px;
+  font-family: dancing script;
+  text-align: center;
+}
+
+.Caddr1 {
+  font-size: 16px;
+  color: #efefef;
+  text-align: center;
+}
+
+.Caddr2 {
+  font-size: 16px;
+  color: #efefef;
+  text-align: center;
+  margin-top: -17px;
+}
+
+.Cjustify {
+  justify-content: center;
+  align-items: center;
+  margin-top: 3.75rem;
+  padding-top: 1rem;
+  margin-bottom: 0.25rem;
+}
+
+.num2 {
+  color: #efefef;
+  font-family: open sans;
+  font-size: 14px;
+}
+
+.mail {
+  color: #c19556;
+  font-family: open sans;
+  font-size: 14px;
+}

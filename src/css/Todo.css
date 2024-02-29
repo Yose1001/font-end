@@ -1,0 +1,13 @@
+.Tform-container {
+    display: flex;
+    flex-direction: column;
+    min-width: 600px; 
+    width: 80%; 
+    padding: 1rem; 
+    gap: 1.5rem; 
+  }
+
+  .Tp {
+    padding: 8px;
+    border-radius: 4px;
+  }

@@ -1,0 +1,91 @@
+.Aabout-bg {
+  background-color: rgba(0, 0, 0, 0.932);
+}
+
+.Adash {
+  color: #c7c7c7;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.Ahead-about {
+  font-size: 45px;
+  font-family: Open Sans;
+  font-weight: 700;
+  color: #c19556;
+  text-align: center;
+}
+
+.Acolor {
+  background-color: rgb(41, 41, 41);
+}
+
+.Anum {
+  color: #c19556;
+  font-size: 110px;
+  font-weight: 650;
+  font-family: Open Sans;
+  margin-top: -40px;
+}
+
+.Aimg1 {
+  margin-left: -100px;
+  height: 700px;
+}
+
+.Atext01 {
+  color: white;
+  font-size: 28px;
+  font-weight: 650;
+}
+
+.Aimg2 {
+  width: 790px;
+  height: 700px;
+  margin-left: 100px;
+}
+
+.Atext02 {
+  color: white;
+  font-size: 28px;
+  font-weight: 550;
+}
+
+.Aimg3 {
+  margin-left: -120px;
+  height: 700px;
+}
+
+.Atext03 {
+  color: white;
+  font-size: 28px;
+  font-weight: 650;
+}
+
+.Aimg4 {
+  width: 790px;
+  height: 700px;
+  margin-left: 100px;
+}
+
+.Atext04 {
+  color: white;
+  font-size: 28px;
+  font-weight: 550;
+}
+
+@media screen and (max-width: 768px) {
+    .Ahead-about {
+      font-size: 30px;
+    }
+  
+    .Aimg1 {
+      width: 442px;
+      height: 302px;
+    }
+  
+    .Aimg2 {
+      width: 386px;
+      height: 302px;
+    }
+  }

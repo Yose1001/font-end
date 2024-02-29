@@ -1,0 +1,94 @@
+.Mcustom1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 4rem;
+}
+
+.Mcustom2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Mhead-about {
+  font-size: 45px;
+  font-family: Open Sans;
+  font-weight: 700;
+  color: #c19556;
+  text-align: center;
+}
+
+.menu-item,
+.menu-price {
+  color: #c19556;
+  font-size: 15px;
+  font-family: Lato, sans-serif;
+  font-weight: 600;
+}
+
+.hr-line {
+  color: orange;
+}
+
+.column1 {
+  width: calc(50% - 30px);
+  float: left;
+  padding: 0 15px;
+  border: 2px solid #c19556;
+}
+
+.column2 {
+  width: calc(50% - 30px);
+  float: left;
+  padding: 0 15px;
+}
+
+.menu-img1 {
+  width: 100%;
+  height: 100%;
+}
+
+.menu-img2 {
+  width: 100%;
+  height: 100%;
+}
+
+.outer1 {
+  width: 282px;
+  height: 180px;
+  margin-left: 45px;
+  margin-top: 11px;
+  overflow: hidden;
+}
+
+.outer2 {
+  width: 282px;
+  height: 180px;
+  margin-left: 60px;
+  margin-top: 11px;
+  overflow: hidden;
+}
+
+.outer1:hover .menu-img1 {
+  transform: scale(1.3);
+  transition: all 0.2s;
+  opacity: 0.5;
+}
+
+.outer2:hover .menu-img2 {
+  transform: scale(1.3);
+  transition: all 0.2s;
+  opacity: 0.5;
+}
+
+.jcb {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Mmenu {
+  color: #c19556;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}

@@ -1,0 +1,14 @@
+.Uflex {
+  display: flex;
+  flex-direction: column;
+  /* margin-top: 100px; */
+}
+
+.Uim {
+  background-image: url("../media/table-crowd.jpg");
+  /* text-align: center; */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+}

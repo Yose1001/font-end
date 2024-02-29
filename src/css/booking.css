@@ -1,0 +1,98 @@
+.Bontent1 {
+  align-items: center;
+  justify-content: center;
+}
+
+.Bontent2 {
+  align-items: center;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+.book-head{
+  font-size: 45px;
+  font-family: Open Sans;
+  font-weight: 700;
+  margin-top: 10px;
+  color: #efefef;
+  text-align: center;
+}
+
+.Bmt {
+  margin-top: 3rem; 
+}
+
+.Bcol {
+  width: calc(33.333% - 1rem);
+  float: left;
+  margin-right: 1rem;
+}
+
+.Bdate{
+  text-align: center;
+  color: white;
+  font-size: 20px;
+}
+
+.custom-select {
+  position: relative;
+  display: inline-block;
+}
+
+.custom-select select {
+  display: block;
+  width: 100%;
+  padding: 0.375rem 2.25rem 0.375rem 0.75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #495057;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: 0.25rem;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.custom-select::after {
+  position: absolute;
+  top: 50%;
+  right: 0.75rem;
+  transform: translateY(-50%);
+  pointer-events: none;
+  content: '\25BC'; 
+}
+
+.Bpx {
+  padding-left: 0.5rem; 
+  padding-right: 0.5rem;
+}
+
+.Bp {
+  padding: 0.25rem; 
+}
+
+.Bbook-btn{
+  background-color: #c19556;
+  color: white;
+  border: none;
+  width: 250px;
+  height: 40px;
+  font-size: 14px;
+  font-weight: 600;
+  margin-top: 10px;
+}
+
+.Bmt1 {
+  margin-top: 3rem; 
+}
+
+.Bmt2 {
+  margin-top: 0.75rem; 
+}
+
+.Bcontact{
+  height: 600px;
+  width: 900px;
+  background-color: none;
+  margin-top: -650px;
+}

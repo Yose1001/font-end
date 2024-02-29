@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Krub:wght@200;400;500&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg {
+  background-color: black;
+}
+
+.navbar {
+  background-color: rgb(22, 22, 22);
+  height: 70px;
+  width: 100%;
+  /* position: fixed; */
+  color: #c19556;
+}
+
+/* .navbar:hover {
+  background-color: #c19556; 
+  color: white; 
+} */
+
+.Food {
+  font-family: "Dancing Script", cursive;
+  color: #e7b269;
+  font-size: 40px;
+}

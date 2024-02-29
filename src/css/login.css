@@ -1,0 +1,9 @@
+.box-container {
+  padding: 1.25rem;
+  border: 1px solid #ccc;
+  width: 66.666%;
+  min-width: 500px;
+  margin: 0 auto;
+  border-radius: 0.5rem;
+  margin-top: 100px;
+}

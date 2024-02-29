@@ -1,0 +1,24 @@
+.main {
+  text-align: center;
+  background-image: url("../media/landing-bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+}
+
+.Hcenter {
+  display: block;
+  justify-content: center;
+  align-items: center;
+}
+
+.Htext1 {
+  color: white;
+  font-size: 20px;
+}
+
+.Htext2 {
+  color: white;
+  font-size: 48px;
+}
